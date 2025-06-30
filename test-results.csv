@@ -9,3 +9,177 @@
 "testRectangleOutput","3
 8
 4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1–3):  Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-06-27 11:29:03"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:44:52"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:44:52"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:44:52"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:44:52"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:45:56"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:45:56"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:45:56"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:45:56"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:48:43"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:48:43"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:48:43"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:48:43"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:50:01"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:50:01"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:50:01"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:50:01"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:50:44"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 16:50:44"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:50:44"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:50:44"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:50:44"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 16:50:44"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:50:52"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 16:50:52"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:50:52"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:50:52"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:50:52"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 16:50:52"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:51:49"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 16:51:49"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:51:49"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:51:49"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:51:49"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 16:51:49"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:52:43"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 16:52:43"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:52:43"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:52:43"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:52:43"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 16:52:43"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:53:42"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 16:53:42"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:53:42"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:53:42"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:53:42"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 16:53:42"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:54:40"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 16:54:40"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:54:40"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:54:40"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:54:40"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 16:54:40"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.53981633974483","FAIL","2025-06-30 16:57:16"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.0","FAIL","2025-06-30 16:57:16"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:57:16"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:57:16"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:57:16"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.0","FAIL","2025-06-30 16:57:16"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:58:06"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 16:58:06"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:58:06"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:58:06"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:58:06"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 16:58:06"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 16:59:55"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 16:59:55"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 16:59:55"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 16:59:55"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 16:59:55"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 16:59:55"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 17:00:11"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 17:00:11"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 17:00:11"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 17:00:11"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 17:00:11"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 17:00:11"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 17:05:19"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 17:05:19"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 17:05:19"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 17:05:19"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 17:05:19"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 17:05:19"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 17:09:03"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the Triangle: 30.00","FAIL","2025-06-30 17:09:03"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 17:09:03"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 17:09:03"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 17:09:03"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 17:09:03"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 17:10:12"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the triangle: 30.00","PASS","2025-06-30 17:10:12"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 17:10:12"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 17:10:12"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 17:10:12"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the circle: 32.00","FAIL","2025-06-30 17:10:12"
+"testCircleOutput","1
+5","Area of the circle: 78.54","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the radius: Area of the circle: 78.54","PASS","2025-06-30 17:10:42"
+"testTriangleOutput","2
+10
+6","Area of the triangle: 30.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the base: Enter the height: Area of the triangle: 30.00","PASS","2025-06-30 17:10:42"
+"testCalculateRectangleArea","length=8,width=4","32.00","32.00","PASS","2025-06-30 17:10:42"
+"testCalculateTriangleArea","base=10,height=6","30.00","30.00","PASS","2025-06-30 17:10:42"
+"testCalculateCircleArea","radius=5","78.54","78.54","PASS","2025-06-30 17:10:42"
+"testRectangleOutput","3
+8
+4","Area of the rectangle: 32.00","=== Area Calculator === 1. Circle 2. Triangle 3. Rectangle Choose a shape (1-3):  Enter the length: Enter the width: Area of the rectangle: 32.00","PASS","2025-06-30 17:10:42"
